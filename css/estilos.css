@@ -1,0 +1,14 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: #68c6fc;
+    color: #fff;
+}
+#contenedor{
+    width: 1161px;
+    margin: auto;
+    border-radius: 20px;
+    overflow: hidden;
+}
