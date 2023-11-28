@@ -35,4 +35,54 @@ nav h2{
 nav u{
     color: rgb(73, 73, 250);
 }
+#contenido{
+    width: 800px;
+    height: 400px;
+    float: left;
+    background: #fff;
+}
+#contenido p{
+    font-size: 20px;
+    text-align: justify;
+    line-height: 20px;
+    color: #000;
+    margin-top: 150px;
+    margin-left: 05px;
+    margin-right: 05px;
+}
+aside{
+    width: 250px;
+    height: 400px;
+    background: rgb(80, 228, 80);
+    float: right;
+    width: 360px;
+}
+aside h2{
+    font-size: 35px;
+    text-align: left;
+    line-height: 150px;
+    color: #000;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+aside p{
+    font-size: 23px;
+    text-align: justify;
+    line-height: 24px;
+    color: #000;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+footer{
+    background: #000;
+    clear: both;
+    height: 50px;
+}
+footer p{
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;
+    font-style: italic;
+}
 
