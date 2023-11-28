@@ -12,3 +12,27 @@ body{
     border-radius: 20px;
     overflow: hidden;
 }
+header{
+    height: 110px;
+    background: #000;
+}
+header h1{
+    font-size: 50px;
+    text-align: center;
+    line-height: 120px;
+    margin-top: 10px;
+}
+nav{
+    background: yellow;
+    height: 60px;
+}
+nav h2{
+    font-size: 22px;
+    text-align: center;
+    line-height: 60px;
+    color: black;
+    }
+nav u{
+    color: rgb(73, 73, 250);
+}
+
